@@ -1,29 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Joseph's Page
 
-You can use the [editor on GitHub](https://github.com/josephmperez/josephmperez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I will use this page for displaying working projects to students and the world to see.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope to share some gaming code, and use my own scripts for to use with current [games](https://josephmperez.github.io.games.html). I will see what langauges I can demonstrate with github with the different web pages that I create.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I hope to master this markdown to show different languages. Let's try Hello, World.
 
+####C#
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# // Hello.cs
+# publc class Hello
+  {
+    public static void Main()
+    {
+      System.Console.WriteLine("Hello, World!");
+    }
+  }
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
