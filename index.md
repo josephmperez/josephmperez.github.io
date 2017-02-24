@@ -8,7 +8,7 @@ I hope to share some gaming code, and use my own scripts for to use with current
 
 I hope to master this markdown to show different languages. Let's try Hello, World.
 
-#### C'#'
+#### C`#`
 ```c#
 // Hello.cs
 publc class Hello
