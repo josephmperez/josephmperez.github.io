@@ -27,7 +27,7 @@ int main(){
   return 0;
  }
  ```
- #### Java
+#### Java
  ```java
  public class helloWorld{
   public static void main(String[] args){
