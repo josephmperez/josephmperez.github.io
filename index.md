@@ -19,7 +19,34 @@ publc class Hello
     }
   }
 ```
+####c
+```c
+#include<stdio.h>
+int main(){
+  printf("Hello, World!\n";
+  return 0;
+ }
+ ```
+ ####Java
+ ```java
+ public class helloWorld{
+  public static void main(String[] args){
+    System.out.println("Hello, World!");
+  }
+}
+```
 
+####c++
+```c++
+#include<iostream>
+using namespace std;
+
+int main(){
+  cout<<"Hello, World!"<<endl;
+  return 0;
+}
+```
+ 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
