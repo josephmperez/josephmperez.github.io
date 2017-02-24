@@ -19,7 +19,7 @@ publc class Hello
     }
   }
 ```
-####c
+#### c
 ```c
 #include<stdio.h>
 int main(){
@@ -27,7 +27,7 @@ int main(){
   return 0;
  }
  ```
- ####Java
+ #### Java
  ```java
  public class helloWorld{
   public static void main(String[] args){
@@ -36,7 +36,7 @@ int main(){
 }
 ```
 
-####c++
+#### c++
 ```c++
 #include<iostream>
 using namespace std;
